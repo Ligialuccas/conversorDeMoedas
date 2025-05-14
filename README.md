@@ -26,3 +26,5 @@ Este é um projeto simples de conversor de moedas, desenvolvido em **Java**, que
 
 - Conversão entre 9 moedas com taxas atualizadas
 - Interface por linha de comando para escolha das moedas e inserção do valor
+
+![Badge-Conversor](https://github.com/user-attachments/assets/aa4d2182-f8cb-4816-a1bd-3f7557c9afaf)
